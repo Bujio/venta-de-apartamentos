@@ -5,7 +5,7 @@
 @import 'base/utilidades';
 @import 'base/botones';
 
-// *** UI ***
+/*** UI ***/
 @import 'layout/header';
 @import 'layout/footer';
 @import 'layout/navegacion';
@@ -14,3 +14,7 @@
 @import 'layout/contactar';
 @import 'layout/inferior';
 @import 'layout/testimonial';
+
+
+/*** INTERNAS ***/
+@import 'internas/nosotros';
