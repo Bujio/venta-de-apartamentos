@@ -31,8 +31,10 @@
     font-weight: $bold;
     margin-top: calc($separacion / 2);
     padding: .5rem;
+    border: none;
+    cursor: pointer;
 
     &:hover{
-        background-color: darken($amarillo, 5) ;
+        background-color: darken($bgcolor, 5) ;
     }
 }

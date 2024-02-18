@@ -25,13 +25,13 @@
   display: flex;
   list-style: none;
   padding: 0;
-  max-width: 40rem;
+  max-width: 38rem;
   li{
     flex: 1;
     display: flex;
     img{
       flex: 0 0 3rem;
-      margin-left: 2rem;
+      margin-left: 1rem;
       &:first-of-type{
         margin-left: 0;
       }
